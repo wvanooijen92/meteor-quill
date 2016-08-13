@@ -1,7 +1,7 @@
-Quill.js version 0.19.8 for Meteor.
+Quill.js version v1.0.0-beta.2 for Meteor.
 
 #Installation
-    meteor add jhartma:quill
+    meteor add duodeka:meteorquill
 
 #Howto Use
 The package provides the ```Quill``` class to your Meteor app.
